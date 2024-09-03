@@ -8,7 +8,7 @@ const {
   remove,
 } = require("../Controllers/product");
 
-// middleware
+// middleware 
 const { auth } = require("../Middleware/auth");
 
 // http://localhost:5000/api/product
